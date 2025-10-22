@@ -1,0 +1,6 @@
+﻿  Cau 3.cpp
+C:\Users\TRANG ANH LAPTOP\source\repos\cau 3\cau 3\Cau 3.cpp(93,48): warning C4474: 'printf' : too many arguments passed for format string
+      C:\Users\TRANG ANH LAPTOP\source\repos\cau 3\cau 3\Cau 3.cpp(93,48):
+      placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+  cau 3.vcxproj -> C:\Users\TRANG ANH LAPTOP\source\repos\cau 3\x64\Debug\cau 3.exe
